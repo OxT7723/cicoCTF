@@ -1,2 +1,2 @@
-# cicoCTF
+# picoCTF
 picoCTF
